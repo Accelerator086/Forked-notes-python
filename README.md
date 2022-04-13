@@ -1,12 +1,14 @@
-[![Analytics](https://ga-beacon.appspot.com/UA-80121379-2/notes-python)](https://github.com/lijin-thu/notes-python)
 
-# 中文 Python 笔记
+
+# Forked - 中文 Python 笔记
 
 > 版本：0.0.1<br>
 > 作者：李金<br>
 > 邮件：lijinwithyou@gmail.com<br>
 
 由于涉及著作权的问题，对基于本笔记所做的修订、改编，目前不做任何正式授权。
+
+- 本笔记试图修改以在 Python 3 下正常运行
 
 笔记内容仅供学习参考，未经允许，请勿用于任何商业用途。
 
